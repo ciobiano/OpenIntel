@@ -1,0 +1,27 @@
+import React from 'react';
+import Article from '../../components/article/Article';
+import { blog01, blog02, blog03, blog04, blog05,blog06,blog07,blog08 } from './imports';
+import './blog.css';
+
+const Blog = () => (
+	<div className="gpt3__blog section__padding" id="blog">
+		<div className="gpt3__blog-heading">
+			<h1 className="gradient__text">
+				A lot is happening, <br /> We are blogging about it.
+			</h1>
+		</div>
+		< className="gpt3__blog-container">
+			
+				<Article imgUrl={blog03}/>
+				<Article imgUrl={blog04}/>
+				<Article imgUrl={blog05}/>
+				<Article imgUrl={blog06}/>
+				<Article imgUrl={blog07}/>
+				<Article imgUrl={blog08}/>
+		
+			
+		</div>
+	</div>
+);
+
+export default Blog;

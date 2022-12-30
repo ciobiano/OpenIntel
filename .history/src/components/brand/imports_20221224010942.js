@@ -1,0 +1,13 @@
+import Meta from '../../assets/Meta.svg';
+import OpenAi from '../../assets/OpenAi.svg';
+import atlassian from '../../assets/atlassian.png';
+import dropbox from '../../assets/dropbox.png';
+import shopify from '../../assets/shopify.png';
+
+export {
+  Open,
+  slack,
+  atlassian,
+  dropbox,
+  shopify,
+};
