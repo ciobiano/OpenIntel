@@ -13,7 +13,7 @@ const Header = () => (
 
 			<TypeAnimation
 				sequence={[
-					"Yet bed any for travelling assistance indulgence unpleasing. ",
+					"Yet bed any for traveling assistance indulgence unpleasing. ",
 					1000,
 					"",
 				]}
