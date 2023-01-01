@@ -11,13 +11,13 @@ const Brand = () => (
       <img src={OpenAi} alt="OpenAI" />
     </div>
     <div>
-      <img src={atlassian} alt="atlassian" />
+      <img src={atlassian} al/>
     </div>
     <div>
-      <img src={dropbox} alt="Dropbox" />
+      <img src={dropbox} />
     </div>
     <div>
-      <img src={shopify} alt="Shopify" />
+      <img src={shopify} />
     </div>
   </div>
 );

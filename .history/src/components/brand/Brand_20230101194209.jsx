@@ -8,16 +8,16 @@ const Brand = () => (
       <img src={Meta}  alt="Meta"/>
     </div>
     <div>
-      <img src={OpenAi} alt="OpenAI" />
+      <img src={OpenAi} />
     </div>
     <div>
-      <img src={atlassian} alt="atlassian" />
+      <img src={atlassian} />
     </div>
     <div>
-      <img src={dropbox} alt="Dropbox" />
+      <img src={dropbox} />
     </div>
     <div>
-      <img src={shopify} alt="Shopify" />
+      <img src={shopify} />
     </div>
   </div>
 );

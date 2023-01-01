@@ -5,19 +5,19 @@ import './brand.css';
 const Brand = () => (
   <div className="gpt3__brand section__padding">
     <div>
-      <img src={Meta}  alt="Meta"/>
+      <img src={Meta} DDD/>
     </div>
     <div>
-      <img src={OpenAi} alt="OpenAI" />
+      <img src={OpenAi} />
     </div>
     <div>
-      <img src={atlassian} alt="atlassian" />
+      <img src={atlassian} />
     </div>
     <div>
-      <img src={dropbox} alt="Dropbox" />
+      <img src={dropbox} />
     </div>
     <div>
-      <img src={shopify} alt="Shopify" />
+      <img src={shopify} />
     </div>
   </div>
 );

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/OpenIntel/precache-manifest.fd9298fdddb40752dee854cc99d7e45a.js"
+  "/OpenIntel/precache-manifest.a774aa4cdc90c1bcf21ad3e62bf6704f.js"
 );
 
 workbox.clientsClaim();

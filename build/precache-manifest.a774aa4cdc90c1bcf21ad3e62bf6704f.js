@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0ad9f5c91715969f7fca",
-    "url": "/OpenIntel/static/css/main.063099f6.chunk.css"
+    "revision": "b734bee0c3002630e1e8",
+    "url": "/OpenIntel/static/css/main.2c896e52.chunk.css"
   },
   {
-    "revision": "0ad9f5c91715969f7fca",
-    "url": "/OpenIntel/static/js/main.907974ac.chunk.js"
+    "revision": "b734bee0c3002630e1e8",
+    "url": "/OpenIntel/static/js/main.eccb8ffa.chunk.js"
   },
   {
     "revision": "dbef18bea5b044a285a6",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/OpenIntel/static/media/possibility.a624a5e5.png"
   },
   {
-    "revision": "0184aa1222ecd257eab5e12b7559774b",
+    "revision": "2f1cf83cbffd2efcd9f2bb4614ec9ee0",
     "url": "/OpenIntel/index.html"
   }
 ];
